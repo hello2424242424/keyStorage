@@ -30,77 +30,73 @@
       "key": "C7rY2sF9hT4n",
       "hwid": "00330-80000-00000-AA567"
     },
-
     {
       "discord_id": "632103136307314698",
       "nickname": "Gabe",
       "key": "G8jC3nM5rQ2w",
       "hwid": "00331-60000-00000-AA349"
     },
-
-
     {
       "discord_id": "249689233369989120",
       "nickname": "Nite(rising)",
       "key": "U2hX5sF9tJ4i",
       "hwid": "00325-81370-92256-AAOEM"
-    }, 
-
+    },
     {
       "discord_id": "361909517581156353",
       "nickname": "Ibzi",
       "key": "",
       "hwid": "00342-22114-43653-AAOEM"
     },
-
     {
       "discord_id": "411527190073704448",
       "nickname": "Polymer",
       "key": "",
       "hwid": "00331-10000-00001-AA632"
     },
-
     {
       "discord_id": "610293332098154497",
       "nickname": "Voke",
       "key": "W3sX6cP9fQ2o",
       "hwid": "00326-10000-00000-AA436"
     },
-
     {
       "discord_id": "481525079633690645",
       "nickname": "Maxan",
       "key": "X8yW3nT5kF7m",
       "hwid": "00331-10000-00001-AA940"
     },
-
+    {
+      "discord_id": "862046695671332865",
+      "nickname": "Ven",
+      "key": "A1bC4dE6gH9J",
+      "hwid": ""
+    },
     {
       "discord_id": "",
       "nickname": "",
       "key": "",
       "hwid": ""
     },
-
     {
       "discord_id": "",
       "nickname": "",
       "key": "",
       "hwid": ""
     },
-
-    {
-      "discord_id": "",
-      "nickname": "",
-      "key": "",
-      "hwid": ""
-    },
-
     {
       "discord_id": "",
       "nickname": "",
       "key": "",
       "hwid": ""
     }
-
+  ],
+  "ADMIN": [
+    {
+      "hwid": "00331-10000-00001-AA882"
+    },
+    {
+      "hwid": "00325-80578-14015-AAOEM"
+    }
   ]
 }
