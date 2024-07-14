@@ -1,12 +1,6 @@
 {
   "keys": [
     {
-      "discord_id": "205293469382475777",
-      "nickname": "Jameo",
-      "key": "S9dV2mC4nL8k",
-      "hwid": "00331-10000-00001-AA882"
-    },
-    {
       "discord_id": "607648847992324219",
       "nickname": "Archie",
       "key": "T5uH2wQ7fZ6p",
@@ -93,10 +87,12 @@
   ],
   "ADMIN": [
     {
-      "hwid": "00331-1000-0001-AA882"
+      "hwid": "00331-10000-00001-AA882",
+      "name": "Christopher The Third"
     },
     {
-      "hwid": "00325-8057-14015-AAOEM"
+      "hwid": "",
+      "name": "Archie"
     }
   ]
 }
