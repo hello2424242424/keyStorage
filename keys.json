@@ -87,12 +87,22 @@
   ],
   "ADMIN": [
     {
-      "hwid": "",
+      "hwid": "00331-10000-00001-AA882",
       "name": "Christopher The Third"
     },
     {
-      "hwid": "",
+      "hwid": "00325-80578-14014-AAOEM",
       "name": "Archie"
+    },
+
+    {
+      "hwid": "",
+      "name": ""
+    },
+
+    {
+      "hwid": "",
+      "name": ""
     }
   ]
 }
