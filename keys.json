@@ -1,24 +1,6 @@
 {
   "keys": [
     {
-      "discord_id": "607648847992324219",
-      "nickname": "Archie",
-      "key": "T5uH2wQ7fZ6p",
-      "hwid": "00325-80578-14014-AAOEM"
-    },
-    {
-      "discord_id": "920416874196504686",
-      "nickname": "Leaf",
-      "key": "F4cP9vR6nH2m",
-      "hwid": "00325-96468-05875-AAOEM"
-    },
-    {
-      "discord_id": "168836304845537280",
-      "nickname": "Demp",
-      "key": "P3wK6mR8jL5x",
-      "hwid": "00326-10000-00000-AA170"
-    },
-    {
       "discord_id": "1016905486110572555",
       "nickname": "Hockey",
       "key": "C7rY2sF9hT4n",
@@ -29,80 +11,6 @@
       "nickname": "Gabe",
       "key": "G8jC3nM5rQ2w",
       "hwid": "00331-60000-00000-AA349"
-    },
-    {
-      "discord_id": "249689233369989120",
-      "nickname": "Nite(rising)",
-      "key": "U2hX5sF9tJ4i",
-      "hwid": "00325-81370-92256-AAOEM"
-    },
-    {
-      "discord_id": "361909517581156353",
-      "nickname": "Ibzi",
-      "key": "",
-      "hwid": "00342-22114-43653-AAOEM"
-    },
-    {
-      "discord_id": "411527190073704448",
-      "nickname": "Polymer",
-      "key": "",
-      "hwid": "00331-10000-00001-AA632"
-    },
-    {
-      "discord_id": "610293332098154497",
-      "nickname": "Voke",
-      "key": "W3sX6cP9fQ2o",
-      "hwid": "00326-10000-00000-AA436"
-    },
-    {
-      "discord_id": "481525079633690645",
-      "nickname": "Maxan",
-      "key": "X8yW3nT5kF7m",
-      "hwid": "00331-10000-00001-AA940"
-    },
-    {
-      "discord_id": "862046695671332865",
-      "nickname": "Ven",
-      "key": "A1bC4dE6gH9J",
-      "hwid": "00330-80000-00000-AA359"
-    },
-    {
-      "discord_id": "",
-      "nickname": "",
-      "key": "",
-      "hwid": ""
-    },
-    {
-      "discord_id": "",
-      "nickname": "",
-      "key": "",
-      "hwid": ""
-    },
-    {
-      "discord_id": "",
-      "nickname": "",
-      "key": "",
-      "hwid": ""
-    }
-  ],
-  "ADMIN": [
-    {
-      "hwid": "00331-10000-00001-AA882",
-      "name": "Christopher The Third"
-    },
-    {
-      "hwid": "00325-80578-14014-AAOEM",
-      "name": "Archie"
-    },
-
-    {
-      "hwid": "",
-      "name": ""
-    },
-
-    {
-      "hwid": "",
-      "name": ""
     }
   ]
 }
