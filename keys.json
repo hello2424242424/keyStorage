@@ -1,22 +1,19 @@
 {
   "keys": [
     {
-      "discord_id": "1016905486110572555",
-      "nickname": "Hockey",
-      "key": "C7rY2sF9hT4n",
-      "hwid": "00330-80000-00000-AA567"
-    },
     {
       "discord_id": "632103136307314698",
       "nickname": "Gabe",
       "key": "G8jC3nM5rQ2w",
       "hwid": "00331-60000-00000-AA349"
     },
-       {
-      "discord_id": "862046695671332865",
-      "nickname": "Ven",
-      "key": "A1bC4dE6gH9J",
-      "hwid": "00330-80000-00000-AA359"
+    {
+      "discord_id": "",
+      "nickname": "",
+      "key": "",
+      "hwid": ""
     }
+    
+
   ]
 }
